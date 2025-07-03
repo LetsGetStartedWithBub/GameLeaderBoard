@@ -190,6 +190,10 @@ This app is integrated with **New Relic APM**:
 * Logs forwarded to New Relic (optional)
 
 Access dashboard: [https://one.newrelic.com/](https://one.newrelic.com/)
+<img width="1710" alt="Screenshot 2025-07-03 at 10 22 40 PM" src="https://github.com/user-attachments/assets/11b7605a-bc7f-4330-a490-a0e475f2895c" />
+<img width="1710" alt="Screenshot 2025-07-03 at 10 22 55 PM" src="https://github.com/user-attachments/assets/e2292be9-39ff-40cb-b85f-9bb128d8688f" />
+<img width="1710" alt="Screenshot 2025-07-03 at 10 23 11 PM" src="https://github.com/user-attachments/assets/a8610961-daa6-490d-8bd9-0859b266eba9" />
+
 
 ---
 
