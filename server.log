@@ -72,3 +72,5 @@
 2025-07-03 23:15:24,330 - INFO - Completed with status code: 200
 2025-07-03 23:16:24,303 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
 2025-07-03 23:16:24,372 - INFO - Completed with status code: 200
+2025-07-03 23:17:24,284 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:17:24,300 - INFO - Completed with status code: 200
