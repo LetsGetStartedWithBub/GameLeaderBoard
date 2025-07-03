@@ -1,0 +1,66 @@
+2025-07-03 22:51:19,028 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:51:19,044 - INFO - Completed with status code: 200
+2025-07-03 22:51:20,136 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:51:20,139 - INFO - Completed with status code: 200
+2025-07-03 22:51:20,143 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:51:20,145 - INFO - Completed with status code: 200
+2025-07-03 22:51:30,278 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:51:30,284 - INFO - Completed with status code: 200
+2025-07-03 22:51:40,276 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:51:40,280 - INFO - Completed with status code: 200
+2025-07-03 22:51:50,272 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:51:50,282 - INFO - Completed with status code: 200
+2025-07-03 22:52:00,280 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:52:00,288 - INFO - Completed with status code: 200
+2025-07-03 22:52:10,276 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:52:10,282 - INFO - Completed with status code: 200
+2025-07-03 22:52:20,280 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:52:20,289 - INFO - Completed with status code: 200
+2025-07-03 22:52:30,284 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:52:30,292 - INFO - Completed with status code: 200
+2025-07-03 22:52:40,275 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:52:40,279 - INFO - Completed with status code: 200
+2025-07-03 22:52:50,277 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:52:50,282 - INFO - Completed with status code: 200
+2025-07-03 22:53:00,275 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:53:00,293 - INFO - Completed with status code: 200
+2025-07-03 22:53:24,279 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:53:24,285 - INFO - Completed with status code: 200
+2025-07-03 22:54:24,298 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:54:24,313 - INFO - Completed with status code: 200
+2025-07-03 22:55:24,280 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:55:24,288 - INFO - Completed with status code: 200
+2025-07-03 22:56:24,291 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:56:24,315 - INFO - Completed with status code: 200
+2025-07-03 22:57:24,283 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:57:24,298 - INFO - Completed with status code: 200
+2025-07-03 22:58:24,279 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:58:24,284 - INFO - Completed with status code: 200
+2025-07-03 22:59:24,293 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 22:59:24,313 - INFO - Completed with status code: 200
+2025-07-03 23:00:24,279 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:00:24,303 - INFO - Completed with status code: 200
+2025-07-03 23:01:24,305 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:01:24,325 - INFO - Completed with status code: 200
+2025-07-03 23:02:24,315 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:02:24,333 - INFO - Completed with status code: 200
+2025-07-03 23:03:24,316 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:03:24,333 - INFO - Completed with status code: 200
+2025-07-03 23:04:24,328 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:04:24,378 - INFO - Completed with status code: 200
+2025-07-03 23:05:24,311 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:05:24,323 - INFO - Completed with status code: 200
+2025-07-03 23:06:24,317 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:06:24,361 - INFO - Completed with status code: 200
+2025-07-03 23:07:24,308 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:07:24,322 - INFO - Completed with status code: 200
+2025-07-03 23:08:24,319 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:08:24,338 - INFO - Completed with status code: 200
+2025-07-03 23:09:24,319 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:09:24,333 - INFO - Completed with status code: 200
+2025-07-03 23:10:24,312 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:10:24,336 - INFO - Completed with status code: 200
+2025-07-03 23:11:24,311 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:11:24,324 - INFO - Completed with status code: 200
+2025-07-03 23:12:24,323 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:12:24,335 - INFO - Completed with status code: 200
