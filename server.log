@@ -64,3 +64,11 @@
 2025-07-03 23:11:24,324 - INFO - Completed with status code: 200
 2025-07-03 23:12:24,323 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
 2025-07-03 23:12:24,335 - INFO - Completed with status code: 200
+2025-07-03 23:13:24,313 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:13:24,327 - INFO - Completed with status code: 200
+2025-07-03 23:14:24,321 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:14:24,338 - INFO - Completed with status code: 200
+2025-07-03 23:15:24,318 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:15:24,330 - INFO - Completed with status code: 200
+2025-07-03 23:16:24,303 - INFO - Incoming request: GET http://localhost:8000/api/leaderboard/top
+2025-07-03 23:16:24,372 - INFO - Completed with status code: 200
